@@ -9,7 +9,7 @@
 //  Copyright (C) 2006-2009 Kitware, Inc.
 //
 //----------------------------------------------------------------------------
-
+#include <iterator>
 #include "MummyCsharpGenerator.h"
 #include "MummyLineOrientedTextFileReader.h"
 #include "MummyLog.h"
